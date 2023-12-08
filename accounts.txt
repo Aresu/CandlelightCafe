@@ -1,0 +1,15 @@
+ADMIN ACCOUNT
+admin@mail.com
+admin
+
+
+
+CASHIER ACCOUNT
+cashier@mail.com
+cash
+
+
+
+KIOSK ACCOUNT
+mathew@mail.com
+123
